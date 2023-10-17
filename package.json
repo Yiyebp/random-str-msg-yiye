@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-yiye",
+  "version": "1.0.0",
+  "description": "Random String Messages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yiyebp/random-str-msg-yiye.git"
+  },
+  "keywords": [],
+  "author": "Yiceth Burbano <yiyeburpo98@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yiyebp/random-str-msg-yiye/issues"
+  },
+  "homepage": "https://github.com/Yiyebp/random-str-msg-yiye#readme",
+  "bin": {
+    "random-str-msg-yiye": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
